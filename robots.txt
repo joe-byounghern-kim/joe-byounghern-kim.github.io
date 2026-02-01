@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://joe-byounghern-kim.github.io/sitemap-index.xml
+
+# Crawl delay
+Crawl-delay: 1

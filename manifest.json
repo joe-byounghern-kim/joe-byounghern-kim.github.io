@@ -1,0 +1,16 @@
+{
+  "name": "Personal Website",
+  "short_name": "Portfolio",
+  "description": "Personal website showcasing projects, open source contributions, and experimental work.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

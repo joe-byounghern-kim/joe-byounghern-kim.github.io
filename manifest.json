@@ -1,0 +1,16 @@
+{
+  "name": "Byounghern Kim Portfolio",
+  "short_name": "Portfolio",
+  "description": "Portfolio and technical writing from software engineer Byounghern Kim.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#171717",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
